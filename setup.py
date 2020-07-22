@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='gsimo_lib',  
-     version='0.2',
+     version='0.4',
      scripts=['gsimo_lib'] ,
      author="Guillaume Simo",
      author_email="guillaume.simo@hotmail.fr",
